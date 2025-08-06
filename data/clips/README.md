@@ -1,0 +1,1 @@
+Please place all clips that you wish to perform template matching on here.

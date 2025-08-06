@@ -1,0 +1,1 @@
+Please place any templates that you wish to use for template matching here. Note that you will need to specify which template you would like to template match with in template_matching.ipynb.
