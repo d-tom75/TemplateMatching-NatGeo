@@ -1,1 +1,9 @@
 data/output
+
+data/clips/*
+!data/clips/
+!data/clips/README.md
+
+data/templates/*
+!data/templates/
+!data/templates/README.md
